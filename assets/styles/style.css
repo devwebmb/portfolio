@@ -252,10 +252,10 @@ header h2 {
   margin-top: 1.5vw;
   color: #fefeff;
 }
-.pre-footer {
+footer {
   margin: 150px 0 120px;
 }
-.pre-footer p {
+footer p {
   font-size: calc(1rem + 2vw);
   margin: 25px 0;
   text-align: center;
@@ -266,7 +266,7 @@ header h2 {
 #l3 {
   transition-delay: 1.6s;
 }
-.pre-footer a {
+footer a {
   font-family: "font-bold", serif;
   color: #000101;
   font-size: calc(1rem + 2vw);
