@@ -275,4 +275,13 @@ header h2 {
   background: url(../img/webcam-toy-photo12-removebg.png) center/cover;
 }
 
+.contact-email {
+  font-size: calc(1rem + 2vw);
+  color: #000101;
+  text-align: center;
+}
 
+.contact-phone {
+  font-size: calc(1rem + 2vw);
+  text-align: center;
+}
